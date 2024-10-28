@@ -1,0 +1,8 @@
+[graphviz]
+path = "/opt/homebrew/bin/dot"
+
+[repository]
+path = "/Users/h.u.1.l.a/Desktop/Универ/2 курс/Конфиг. управление/2 задание/pythonProject2/Configuration-management-1"
+
+[output]
+path = "dependency_graph"  # Имя файла для сохранения графа зависимостей
